@@ -16,6 +16,9 @@ logger = logging.getLogger(__name__)
 
 # Initialize the language model to be used for memory extraction
 llm = init_chat_model()
+# llm = init_chat_model("openai:gpt-4o-mini")
+
+logger.info("llm initialized, llm chat model: %s", llm.__class__.__name__)
 
 
 async def call_model(state: State, config: RunnableConfig, *, store: BaseStore) -> dict:

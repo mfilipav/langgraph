@@ -1,6 +1,6 @@
 [project]
 name = "memory-agent"
-version = "0.0.1"
+version = "0.0.2"
 description = "An agent with a tool to save long-term memory."
 authors = [
     { name = "William Fu-Hinthorn", email = "13333726+hinthornw@users.noreply.github.com" },
@@ -12,7 +12,6 @@ dependencies = [
     "langgraph>=0.2.34,<0.3.0",
     # Optional (for selecting different models)
     "langchain-openai>=0.2.1",
-    "langchain-anthropic>=0.2.1",
     "langchain>=0.3.8",
     "langchain-core>=0.3.8",
     "python-dotenv>=1.0.1",

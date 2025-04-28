@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 3f80d8817e815b99dce706653a5bce7df24f4af3 mfilipav <mfilipav@gmail.com> 1744873892 +0200	clone: from github.com:mfilipav/lg-agent-service-toolkit.git
+3f80d8817e815b99dce706653a5bce7df24f4af3 3eadf0baf5dbd2160f736966e969823834423fd9 mfilipav <mfilipav@gmail.com> 1744875695 +0200	commit: chore: venv and pip install
+3eadf0baf5dbd2160f736966e969823834423fd9 995134f0fc2654a93e8a305571b69df7dc5f881d mfilipav <mfilipav@gmail.com> 1744886571 +0200	commit: feat: added langfuse tracing via agent config callbacks to `agent.ainvoke()` and `agent.astream()`
+995134f0fc2654a93e8a305571b69df7dc5f881d 87faf9e094439ed209bcd4e53f1ab5e4d136ca5e mfilipav <mfilipav@gmail.com> 1744898109 +0200	commit: chore: agents' readability improvements
+87faf9e094439ed209bcd4e53f1ab5e4d136ca5e 8629c9f7aa3b9d583611044c54086c34235c20a9 mfilipav <mfilipav@gmail.com> 1745584318 +0200	commit (merge): Merge remote-tracking branch 'upstream/main'
+8629c9f7aa3b9d583611044c54086c34235c20a9 535ab2a3b572777300f454175a20d272933f0b67 mfilipav <mfilipav@gmail.com> 1745586831 +0200	commit: chore: small changes
+535ab2a3b572777300f454175a20d272933f0b67 2f5f2cc5dea3a00c6181b6a62a8cff2731787062 mfilipav <mfilipav@gmail.com> 1745595554 +0200	commit: chore: modify streamlit UI with Telepathy Receptionist instead of Agent.
+2f5f2cc5dea3a00c6181b6a62a8cff2731787062 cd936702f21f4d0fbe52b8caf4ae8506a6666498 mfilipav <mfilipav@gmail.com> 1745833815 +0200	commit: chore: pydantic comments
+cd936702f21f4d0fbe52b8caf4ae8506a6666498 cd936702f21f4d0fbe52b8caf4ae8506a6666498 mfilipav <mfilipav@gmail.com> 1745834293 +0200	Branch: renamed refs/heads/main to refs/heads/main
